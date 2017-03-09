@@ -6,11 +6,6 @@
     "branch":      "cm-14.1"
   },
   {
-    "repository":  "TheMuppets/proprietary_vendor_qcom_binaries",
-    "target_path": "vendor/qcom/binaries",
-    "branch":      "cm-14.1"
-  },
-  {
     "remote":      "laos",
     "repository":  "android_hardware_cyanogen",
     "target_path": "hardware/cyanogen",
